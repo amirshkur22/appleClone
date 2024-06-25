@@ -1,0 +1,130 @@
+/* General Styling*/
+body {
+	font-family: "Montserrat", sans-serif;
+}
+a {
+	color: #06c;
+}
+img {
+	max-width: 100%;
+}
+.white {
+	color: #fff;
+}
+.black {
+	color: #1d1d1f;
+}
+.grey {
+	color: #86868b;
+}
+.top-50 {
+	margin-top: 50px;
+}
+.top-100 {
+	margin-top: 100px;
+}
+
+
+/* my style here */
+* {
+	padding: 0;
+	margin: 0;
+}
+
+i {
+	vertical-align: middle;
+	padding-top: 1px;
+}
+.twolinks a  {
+	text-decoration:none;
+}
+.background {
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 700px;
+}
+ h1{
+	font-weight: 600;
+}
+.section1{
+	background-image: url(../Imagefor/home/motherDay.jpg);
+	position: relative;
+}
+.section1 h1 ,.section2 h1 ,.section3 h1{
+	position: absolute;
+	bottom: 150px;
+	left: 0;
+	right: 0;
+}
+.section1 h3,.section2 h3, .section3 h3{
+	position: absolute;
+	bottom: 100px;
+	left: 0;
+	right: 0;
+}
+.section1 .twolinks,.section2 .twolinks, .section3 .twolinks{
+	position: absolute;
+	bottom: 50px;
+	left: 0;
+	right: 0;
+}
+.section2 {
+	background-image: url(../Imagefor/home/hero_apple_vision_prolarge.jpg);
+	color:#fff;
+	padding-top:3rem;
+	position: relative;
+}
+
+.section3 {
+	background-image: url(../Imagefor/home/apple_event_may_large.jpg);
+	padding-top: 3rem;
+	position: relative;
+	
+}
+.Image3 {
+	background-image: url(../Imagefor/home/iphone15pro_medium1.jpg);
+	text-align: center;
+	margin-bottom: 18px;
+}
+.Image3 div img{
+	font-size: 10px;
+}
+.Image4 {
+	background-image: url(../Imagefor/home/iphone15_announce_medium.jpg);
+	text-align: center;
+}
+
+.Image5 {
+	background-image: url(../Imagefor/home/apple_watch_series_9_medium.jpg);
+	text-align: center;
+	margin-bottom: 18px;
+}
+.Image6 {
+	background-image: url(../Imagefor/home/macbook_air_m3_large.jpg);
+	text-align: center;
+	color: #fff;
+}
+
+.Image7 {
+	background-image: url(../Imagefor/home/tile_medium.jpg);
+	background-size: initial;
+	background-position: bottom;
+	background-color: #fafafa;
+	margin-bottom: 18px;
+}
+.Image7 .twolinks {
+	padding-bottom: 30px;
+}
+.Image8 {
+	background-image: url(../Imagefor/home/iphone_tradein_medium_2x.jpg);
+}
+.servant {
+	padding: 230px 0;
+}
+.watchTrailer i {
+	padding-left: 10px;
+}
+.section6{
+	text-align: center;
+}
